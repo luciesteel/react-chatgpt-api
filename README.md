@@ -1,3 +1,5 @@
+![image](https://github.com/luciesteel/react-chatgpt-api/blob/main/assets/screenshot.png)
+
 # Installation
 ```
 npm install react-native-chatgpt
